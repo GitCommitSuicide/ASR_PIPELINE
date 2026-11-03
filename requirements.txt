@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+soundfile
+python-dotenv
+torch
+silero-vad
+sherpa-onnx
+huggingface_hub
+transformers
+clearvoice
